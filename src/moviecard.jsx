@@ -1,4 +1,7 @@
-function MovieCard({ movie }) {
+import { useNavigate } from 'react-router-dom'
+
+function MovieCard({ movie, toggleFavorite, isFavorite }) {
+  const navigate = useNavigate()
 
   const poster =
     movie.Poster !== "N/A"
@@ -6,19 +9,26 @@ function MovieCard({ movie }) {
       : "https://via.placeholder.com/150"
 
   return (
-    <div style={{
-      background: "#2c2c40",
-      margin: "10px",
-      padding: "10px",
-      borderRadius: "10px",
-      width: "150px"
-    }}>
+    <div
+      className="movie-card"
+      onClick={() => navigate(`/movie/${movie.imdbID}`)}
+    >
 
-      <img src={poster} style={{ width: "100%" }} />
+      {/* ❤️ FAVORITE BUTTON */}
+      <button
+        className="fav-btn"
+        onClick={(e) => {
+          e.stopPropagation()
+          toggleFavorite(movie)
+        }}
+      >
+        {isFavorite ? "❤️" : "🤍"}
+      </button>
+
+      <img src={poster} alt={movie.Title} />
 
       <h3>{movie.Title}</h3>
       <p>{movie.Year}</p>
-
     </div>
   )
 }
