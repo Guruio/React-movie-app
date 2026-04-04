@@ -1,16 +1,48 @@
-# React + Vite
+# 🎬 React Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern movie search application built with React, featuring a Netflix-style UI and real-world functionality.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* 🔍 Movie search with API integration (OMDb)
+* ⚡ Autocomplete suggestions
+* 🎬 Movie details page with dynamic routing
+* ❤️ Favorites system (persistent with localStorage)
+* 🌙 Dark / Light mode toggle
+* 🎨 Netflix-style responsive UI
+* 📱 Fully mobile responsive design
+* ✨ Smooth animations and hover effects
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* React Router
+* CSS (Custom styling)
+* OMDb API
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 [View Live App](https://react-movie-app-zeta-three.vercel.app/)
+
+## 📸 Screenshots
+
+![Home page](<Screenshot 2026-04-03 211908.png>)
+![Movie search](<Screenshot 2026-04-03 212001.png>)
+![Dark mode](<Screenshot 2026-04-03 211657.png>)
+![Light mode](<Screenshot 2026-04-03 211928.png>)
+![Movie details](image.png)
+
+## 📦 Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## 🔑 API Used
+
+* OMDb API
+
+## 👨‍💻 Author
+
+Guru
