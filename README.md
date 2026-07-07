@@ -16,7 +16,6 @@ A modern movie search application built with React, featuring a Netflix-style UI
 * 🔍 Movie search with API integration (OMDb)
 * ⚡ Autocomplete suggestions
 * 🎬 Movie details page with dynamic routing
-* ❤️ Favorites system (persistent with localStorage)
 * 🌙 Dark / Light mode toggle
 * 🎨 Netflix-style responsive UI
 * 📱 Fully mobile responsive design
