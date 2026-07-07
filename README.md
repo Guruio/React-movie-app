@@ -7,7 +7,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-# 🎬 React Movie App
+# 🎬 Movie Explorer
 
 A modern movie search application built with React, featuring a Netflix-style UI and real-world functionality.
 
