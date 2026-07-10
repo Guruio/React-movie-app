@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -30,6 +31,32 @@ A modern movie search application built with React, featuring a Netflix-style UI
 
 ## 🌐 Live Demo
 
+=======
+# 🎬 React Movie App
+
+A modern movie search application built with React, featuring a Netflix-style UI and real-world functionality.
+
+## 🚀 Features
+
+* 🔍 Movie search with API integration (OMDb)
+* ⚡ Autocomplete suggestions
+* 🎬 Movie details page with dynamic routing
+* ❤️ Favorites system (persistent with localStorage)
+* 🌙 Dark / Light mode toggle
+* 🎨 Netflix-style responsive UI
+* 📱 Fully mobile responsive design
+* ✨ Smooth animations and hover effects
+
+## 🛠️ Tech Stack
+
+* React
+* React Router
+* CSS (Custom styling)
+* OMDb API
+
+## 🌐 Live Demo
+
+>>>>>>> bfc3deb (Adding project screenshots)
 👉 [View Live App](https://react-movie-app-zeta-three.vercel.app/)
 
 ## 📸 Screenshots
