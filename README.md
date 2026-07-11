@@ -43,31 +43,42 @@ A modern movie search application built with **React**, featuring a Netflix-insp
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+<p align="center">
+  <img src="screenshots/home.png" width="700">
+</p>
 
 ---
 
 ### 🔍 Movie Search
 
-![Movie Search](screenshots/movie-search.png)
+<p align="center">
+  <img src="screenshots/movie-search.png" width="700">
+</p>
 
 ---
 
 ### 🌙 Dark Theme
 
-![Dark Theme](screenshots/dark-theme.png)
+<p align="center">
+  <img src="screenshots/dark-theme.png" width="700">
+</p>
 
 ---
 
 ### ☀️ Light Theme
 
-![Light Theme](screenshots/light-theme.png)
+<p align="center">
+  <img src="screenshots/light-theme.png" width="700">
+</p>
 
 ---
 
 ### 🎬 Movie Details
 
-![Movie Details](screenshots/movie-detail.png)
+
+<p align="center">
+  <img src="screenshots/movie-detail.png" width="700">
+</p>
 
 ---
 
