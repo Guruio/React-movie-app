@@ -61,11 +61,11 @@ A modern movie search application built with React, featuring a Netflix-style UI
 
 ## 📸 Screenshots
 
-![Home page](<Screenshot 2026-04-03 211908.png>)
-![Movie search](<Screenshot 2026-04-03 212001.png>)
-![Dark mode](<Screenshot 2026-04-03 211657.png>)
-![Light mode](<Screenshot 2026-04-03 211928.png>)
-![Movie details](image.png)
+![Home page](screenshots/home.png)
+![Movie search](screenshots/movie-search.png)
+![Dark mode](screenshots/dark-theme.png)
+![Light mode](screenshots/light-theme.png)
+![Movie details](screenshots/movie-detail.png)
 
 ## 📦 Installation
 
